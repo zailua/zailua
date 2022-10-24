@@ -1,4 +1,4 @@
-## Yo, watashi no namae wa Gabriel desu!
+## Yo, i'm Gabriel
 <div align="center">
   <a href="https://github.com/zailua">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zailua&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
